@@ -58,11 +58,11 @@
       ]
     },
     {
-      "group": "Essentials",
+      "group": "How to",
       "pages": [
-        "essentials/markdown",
+        "essentials/register",
         "essentials/code",
-        "essentials/images",
+        "essentials/signin",
         "essentials/settings",
         "essentials/navigation",
         "essentials/reusable-snippets"
