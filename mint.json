@@ -60,12 +60,12 @@
     {
       "group": "How to",
       "pages": [
-        "essentials/register",
-        "essentials/code",
-        "essentials/signin",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "howto/register",
+        "howtohowtohowtohowtohowto/code",
+        "howthowtohowtohowtoohowtohowtohowto/signin",
+        "howtohowtohowto/settings",
+        "howtohowto/navigation",
+        "howto/reusable-snippets"
       ]
     },
     {
