@@ -61,10 +61,10 @@
       "group": "How to",
       "pages": [
         "howto/register",
-        "howtohowtohowtohowtohowto/code",
-        "howthowtohowtohowtoohowtohowtohowto/signin",
-        "howtohowtohowto/settings",
-        "howtohowto/navigation",
+        "howto/code",
+        "howto/signin",
+        "howto/settings",
+        "howto/navigation",
         "howto/reusable-snippets"
       ]
     },
